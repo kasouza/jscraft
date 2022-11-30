@@ -1,5 +1,5 @@
 # JSCraft
-2D minecraft-like game, with an procedurally generated infinite world where you can place and destroy blocks.
+2D minecraft-like game, with an procedurally generated world where you can place and destroy blocks.
 
 # TODO
 
